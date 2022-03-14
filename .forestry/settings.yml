@@ -9,6 +9,8 @@ sections:
   label: Configuration
   create: all
   match: "**/*"
+- type: heading
+  label: Heading
 - type: directory
   path: exampleSite/content
   label: Pages
