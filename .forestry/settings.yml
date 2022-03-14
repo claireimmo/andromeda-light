@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Custom Heading
+  label: Edition de ton site
 - type: directory
   path: exampleSite/content
   label: Pages
