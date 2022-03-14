@@ -5,11 +5,18 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: exampleSite/config/_default/menus.toml
-  label: Menus
+  path: exampleSite/config/_default/params.toml
+  label: params.toml
   match: "**/*"
 - type: heading
   label: Custom Heading
+- type: document
+  path: exampleSite/config/_default/config.toml
+  label: config
+  match: "**/*"
+- type: document
+  path: exampleSite/config/_default/menus.toml
+  label: menus
 - type: directory
   path: exampleSite/content
   label: Pages
