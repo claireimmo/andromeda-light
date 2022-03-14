@@ -4,13 +4,12 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: exampleSite/config
-  label: Configuration
-  create: all
+- type: document
+  path: exampleSite/config/_default/menus.toml
+  label: Menus
   match: "**/*"
 - type: heading
-  label: Heading
+  label: Custom Heading
 - type: directory
   path: exampleSite/content
   label: Pages
