@@ -6,20 +6,20 @@ webhook_url:
 sections:
 - type: heading
   label: Custom Heading
-- type: document
-  path: exampleSite/config/_default/config.toml
-  label: config
-- type: document
-  path: exampleSite/config/_default/menus.toml
-  label: menus
-- type: document
-  path: exampleSite/config/_default/params.toml
-  label: params
 - type: directory
   path: exampleSite/content
   label: Pages
   create: all
   match: "**/*"
+- type: document
+  path: exampleSite/config/_default/menus.toml
+  label: menus
+- type: document
+  path: exampleSite/config/_default/config.toml
+  label: config
+- type: document
+  path: exampleSite/config/_default/params.toml
+  label: params
 upload_dir: exampleSite/assets
 public_path: "/uploads"
 front_matter_path: ''
