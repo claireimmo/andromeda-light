@@ -2,7 +2,7 @@
 banner:
   title: Ceci est le site de Claire
   button: coucou
-  button_link: https://gethugothemes.com/products/andromeda/
+  button_link: https://saint-ismier-38.immoliaison.fr/
   image: images/banner-app.png
 brands_carousel:
   enable: true
