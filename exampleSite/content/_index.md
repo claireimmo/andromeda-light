@@ -3,7 +3,7 @@ banner:
   title: Votre projet, notre passion
   button: coucou
   button_link: https://saint-ismier-38.immoliaison.fr/
-  image: "/uploads/photo-de-couverture.jpg"
+  image: "/images/photo-de-couverture.jpg"
 brands_carousel:
   enable: true
   brand_images:
