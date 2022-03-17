@@ -16,7 +16,7 @@ who_we_are:
   image: "/images/photo-de-couverture.jpg"
 what_we_do:
   enable: true
-  subtitle: Our Works
+  subtitle: ''
   title: 'Mes méthodes de travail '
   block:
   - title: "•\tEstimation précise "
