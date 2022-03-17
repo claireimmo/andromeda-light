@@ -6,8 +6,8 @@ who_we_are:
   subtitle: Immoliaison Saint-Ismier
   title: Votre projet, notre passion
   description: "Vous souhaitez vendre, acheter une maison ou un appartement sur SAINT-ISMIER
-    et toutes les autres communes du Grésivaudan ? A votre disposition pour / Hâte
-    de vous accompagner dans votre projet de vie.\n\nAvec Immoliaison Saint-Ismier,
+    ou sur les autres communes de la Vallée du Grésivaudan ? \nA votre disposition
+    pour vous accompagner dans votre projet de vie.\n\nAvec Immoliaison Saint-Ismier,
     L’expertise du marché local avec la force d’un réseau national !!\n\nJe me présente,
     Claire Genot, native du secteur, Conseillère en immobilier à votre écoute !\nJe
     dépends du réseau Immoliaison, enseigne du Groupe Cimm Immobilier, basé à Montbonnot
