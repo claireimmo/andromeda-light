@@ -27,10 +27,6 @@ name = "Actualités"
 url = "blog/"
 weight = 3
 [[main]]
-name = "essai"
-url = "estimation"
-weight = "1"
-[[main]]
 hasChildren = true
 name = "Pages"
 weight = 4
