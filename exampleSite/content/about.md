@@ -70,7 +70,7 @@ our_team:
     image: "/images/photo-buste-claire-2.jpg"
     designation: Agent commercial
 our_office:
-  enable: true
+  enable: false
   subtitle: Our Offices
   title: Made with Love Of around the world With Many Offices
   description: We were freelance designers and developers, constantly finding <br>
