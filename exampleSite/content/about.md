@@ -33,6 +33,15 @@ what_we_do:
       sont réservés aux professionnels
   - title: Actions de street marketing
     content: Réalisation de flyers personnalisés pour votre bien et distribution locale
+  - title: "•\tL’accompagnement complet de mes clients & la Sécurisation des dossiers
+      de vente"
+    content: "Je m’engage à vous accompagner sur l’ensemble de votre projet : la commercialisation
+      de votre bien, la réalisation de devis si nécessaire, vous orienter pour faire
+      les diagnostics immobiliers obligatoires pour vendre et avant toute diffusion
+      d’annonce…\nJ’accompagnerai votre futur acquéreur dans ses démarches de financement
+      pour sécuriser la vente. \n=> Mon objectif est de sécuriser la vente de votre
+      bien afin de vous accompagner en toute tranquillité d’esprit jusqu’à la vente
+      définitive, pas uniquement jusqu’au compromis !\n"
 our_mission:
   enable: true
   subtitle: OUR MISSION
