@@ -31,10 +31,8 @@ what_we_do:
   - title: Diffusion annonce
     content: Diffusion de votre annonce sur de nombreux sites internet dont la plupart
       sont réservés aux professionnels
-  - title: Building products
-    content: Decade of engineering under his belt, Jeremie is responsible for technical
-      infrastructure and feature development. In Flow, wherever things just work is
-      understanding developing complex systems
+  - title: Actions de street marketing
+    content: Réalisation de flyers personnalisés pour votre bien et distribution locale
 our_mission:
   enable: true
   subtitle: OUR MISSION
