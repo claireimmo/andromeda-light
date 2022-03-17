@@ -1,25 +1,25 @@
 ---
-date: "2021-07-10"
-title: "Using Wakanda for project management when working remote"
-image: "images/blog/05.jpg"
-author_info: 
-  name: "Derick Barker"
-  image: "images/author/derick.jpg"
-draft: false
+date: 2022-03-01T13:53:00+00:00
+title: 'Location & Transaction : Mention de la performance énergétique dans les annonces
+  immobilières depuis le 1er janvier 2022 '
+image: ''
+author_info:
+  name: Derick Barker
+  image: images/author/derick.jpg
+
 ---
+Attention à vos annonces ! depuis le 1er janvier une mention spécifique et explicite doit figurer sur les annonces relatives à la mise en vente ou la location des biens classés en F ou G.
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
+Pour mémoire l’article R. 126-24 du code de la construction et de l’habitation (CCH) prévoit pour les biens immobiliers à usage d’habitation qui ne respectent pas l’obligation inscrite au premier alinéa de l’article L. 173-2 du CCH (un niveau de performance énergétique compris entre les classes A et E au sens du DPE), qu’une mention spécifique et explicite doit figurer sur les annonces relatives à la mise en vente ou location. Un arrêté était attendu pour l’application de ce texte.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
+En application notamment de [la loi Climat et résilience du 22 août 2021](https://www.journaldelagence.com/1196392-loi-climat-resilience-quelles-consequences-directes-pour-les-professionnels-de-limmobilier-me-cyril-sabatie), **un arrêté du 22 décembre 2021 est ainsi paru au** [**J.O du 29 décembre 2021**](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044593048). Ce texte vient préciser les mentions à faire figurer, **depuis le 1er janvier 2022** en France métropolitaine, sur les annonces immobilières des biens classés en F ou G au sens de [l’article L. 173-1-1 du code de la construction et de l’habitation.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043966496)
 
-Pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus laoreet diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris viverra. Sagittis eu libero
+Cette mention vise à rappeler qu’à compter du 1er janvier 2028 la loi impose aux bâtiments et aux parties de bâtiment à usage d’habitation, que le niveau de performance (DPE) devra seulement être compris entre la classe A et la classe E.
 
->Facing a challenge in life is kind of a turn-on for an easy rider. When life gives you lemons, use them in your designs
->
-> <cite>!Alexender Smith</cite>
+Cet arrêté du 22 décembre prévoit ainsi que pour les biens immobiliers à usage d’habitation la mention prévue pour les annonces de location et de vente doit être mentionnée ainsi :
 
-Consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum
+**_« Logement à consommation énergétique excessive : classe F »_**
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis cursus id.
+**_« Logement à consommation énergétique excessive : classe G »_**
 
-Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim. Faucibus non tristique eu.
+Rappelons que l’article R-126-24 précité précise que **cette mention doit être d’une taille au moins égale à celle des caractères du texte de l’annonce de vente ou de location.**
