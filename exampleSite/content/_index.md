@@ -20,10 +20,12 @@ brands_carousel:
   - images/brands/05-colored.png
 features:
   enable: true
-  subtitle: Special Features
+  subtitle: Vous souhaitez vendre, acheter une maison ou un appartement sur SAINT-ISMIER
+    et toutes les autres communes du Grésivaudan ? Hâte de vous accompagner dans votre
+    projet de vie.
   title: Elements to <br> get you started
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas
-    <br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  description: 'Avec Immoliaison Saint-Ismier, L’expertise du marché local avec la
+    force d’un réseau national '
   features_blocks:
   - icon: las la-lock
     title: Updated Security
