@@ -31,13 +31,15 @@ features:
     vendre votre bien ? N'hésitez pas à me contacter, je me ferai une joie de vous
     aider.\n"
   features_blocks:
+  - icon: ''
+    title: ''
+    content: ''
   - icon: las la-lock
     title: Photos HDR
     content: ''
-  - icon: las la-magnet
-    title: Magnetic Turning
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
+  - icon: "/images/portail_diffusion.png"
+    title: Portails de diffusion professionnel
+    content: ''
   - icon: las la-tachometer-alt
     title: Secured &amp; up-to-date
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
