@@ -3,13 +3,17 @@ title: About
 layout: about
 who_we_are:
   enable: true
-  subtitle: Who We Are
-  title: Hello, We're Claire Here for your Help
-  description: sddsadsad Your online Health & Fitness companion that offers free assistance
-    on its Facebook Group and provides quality paid guided personal training packages
-    by and through website. We are the first ever, online manifesto in Bangladesh
-    to make place you will select when you think of getting fit
-  image: images/about/01.jpg
+  subtitle: Immoliaison Saint-Ismier
+  title: Votre projet, notre passion
+  description: "Vous souhaitez vendre, acheter une maison ou un appartement sur SAINT-ISMIER
+    et toutes les autres communes du Grésivaudan ? A votre disposition pour / Hâte
+    de vous accompagner dans votre projet de vie.\n\nAvec Immoliaison Saint-Ismier,
+    L’expertise du marché local avec la force d’un réseau national !!\n\nJe me présente,
+    Claire Genot, native du secteur, Conseillère en immobilier à votre écoute !\nJe
+    dépends du réseau Immoliaison, enseigne du Groupe Cimm Immobilier, basé à Montbonnot
+    (38). \nVous avez des questions, un projet immobilier ou souhaitez vendre votre
+    bien ? N'hésitez pas à me contacter, je me ferai une joie de vous aider.\n"
+  image: "/images/photo-de-couverture.jpg"
 what_we_do:
   enable: true
   subtitle: Our Works
