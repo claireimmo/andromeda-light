@@ -62,10 +62,9 @@ brands_carousel:
   section: "/"
 our_team:
   enable: true
-  subtitle: Our members
-  title: The People Behind
-  description: We were freelance designers and developers, constantly finding <br>
-    ourselves deep in vague feedback. This made every client and team
+  subtitle: ''
+  title: Votre interlocutrice privilégiée
+  description: ''
   team:
   - name: Claire GENOT
     image: "/images/photo-buste-claire-2.jpg"
