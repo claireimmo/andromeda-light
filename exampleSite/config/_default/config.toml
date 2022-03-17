@@ -22,7 +22,7 @@ delimiter = ""
 suffixes = [""]
 [module.hugoVersion]
 extended = true
-min = "0.83.1"
+min = "0.88.1"
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
