@@ -67,15 +67,9 @@ our_team:
   description: We were freelance designers and developers, constantly finding <br>
     ourselves deep in vague feedback. This made every client and team
   team:
-  - name: Valentin Staykov
-    image: images/about/team/01.jpg
-    designation: Operations
-  - name: Bukiakta Bansalo
-    image: images/about/team/02.jpg
-    designation: Product
-  - name: Ortrin Okaster
-    image: images/about/team/03.jpg
-    designation: Engineering
+  - name: Claire GENOT
+    image: "/images/photo-buste-claire-2.jpg"
+    designation: Agent commercial
 our_office:
   enable: true
   subtitle: Our Offices
