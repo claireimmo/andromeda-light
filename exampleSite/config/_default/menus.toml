@@ -15,10 +15,6 @@ name = "Terms & Conditions"
 url = "terms-and-conditions/"
 weight = 4
 [[main]]
-name = "essai"
-url = "estimation"
-weight = "1"
-[[main]]
 name = "Home"
 url = ""
 weight = 1
@@ -30,6 +26,10 @@ weight = 2
 name = "Actualités"
 url = "blog/"
 weight = 3
+[[main]]
+name = "essai"
+url = "estimation"
+weight = "1"
 [[main]]
 hasChildren = true
 name = "Pages"

@@ -1,6 +1,5 @@
 ---
-title: "Blog"
-description: "meta description"
-draft: false
----
+title: Actualités immobilières
+description: meta description
 
+---
