@@ -20,7 +20,7 @@ sections:
 - type: document
   path: exampleSite/config/_default/params.toml
   label: params
-upload_dir: exampleSite/assets
+upload_dir: exampleSite/assets/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
