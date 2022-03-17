@@ -28,10 +28,9 @@ what_we_do:
       de qualité. En pratique, l’application que j’utilise combine automatiquement
       9 photos (de la plus surexposée à la plus sous-exposée) pour en extraire la
       meilleure. '
-  - title: Creative flair design
-    content: Decade of engineering under his belt, Jeremie is responsible for technical
-      infrastructure and feature development. In Flow, wherever things just work is
-      understanding developing complex systems
+  - title: Diffusion annonce
+    content: Diffusion de votre annonce sur de nombreux sites internet dont la plupart
+      sont réservés aux professionnels
   - title: Building products
     content: Decade of engineering under his belt, Jeremie is responsible for technical
       infrastructure and feature development. In Flow, wherever things just work is
