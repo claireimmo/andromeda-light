@@ -56,7 +56,7 @@ about_video:
   video_url: https://www.youtube.com/embed/dyZcRRWiuuw
   video_thumbnail: images/about/video-popup-2.jpg
 brands_carousel:
-  enable: true
+  enable: false
   subtitle: Our Clients
   title: Trusted by Thousands Companies
   section: "/"
