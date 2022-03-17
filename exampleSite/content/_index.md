@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Ceci est le site de Claire
+  title: Votre projet, notre passion
   button: coucou
   button_link: https://saint-ismier-38.immoliaison.fr/
   image: images/banner-app.png
