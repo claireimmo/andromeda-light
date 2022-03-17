@@ -23,7 +23,7 @@ what_we_do:
     content: "Je détermine avec précision la valeur vénale de votre bien grâce à la
       fiabilité de mes méthodes d’estimation et à ma connaissance du secteur. \nUne
       bonne estimation permet une vente rapide de votre bien !!"
-  - title: "•\tPhotos HDR afin de valoriser votre bien"
+  - title: Photos HDR afin de valoriser votre bien
     content: 'La Technologie HDR apporte une meilleure luminosité pour avoir une image
       de qualité. En pratique, l’application que j’utilise combine automatiquement
       9 photos (de la plus surexposée à la plus sous-exposée) pour en extraire la
@@ -33,15 +33,6 @@ what_we_do:
       sont réservés aux professionnels
   - title: Actions de street marketing
     content: Réalisation de flyers personnalisés pour votre bien et distribution locale
-  - title: "•\tL’accompagnement complet de mes clients & la Sécurisation des dossiers
-      de vente"
-    content: "Je m’engage à vous accompagner sur l’ensemble de votre projet : la commercialisation
-      de votre bien, la réalisation de devis si nécessaire, vous orienter pour faire
-      les diagnostics immobiliers obligatoires pour vendre et avant toute diffusion
-      d’annonce…\nJ’accompagnerai votre futur acquéreur dans ses démarches de financement
-      pour sécuriser la vente. \n=> Mon objectif est de sécuriser la vente de votre
-      bien afin de vous accompagner en toute tranquillité d’esprit jusqu’à la vente
-      définitive, pas uniquement jusqu’au compromis !\n"
 our_mission:
   enable: true
   subtitle: MA MISSION
