@@ -31,10 +31,7 @@ features:
     vendre votre bien ? N'hésitez pas à me contacter, je me ferai une joie de vous
     aider.\n"
   features_blocks:
-  - icon: ''
-    title: ''
-    content: ''
-  - icon: las la-lock
+  - icon: las la-lock - HDR
     title: Photos HDR
     content: ''
   - icon: "/images/portail_diffusion.png"
