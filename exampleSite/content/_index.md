@@ -5,7 +5,7 @@ banner:
   button_link: https://saint-ismier-38.immoliaison.fr/
   image: "/images/photo-de-couverture.jpg"
 brands_carousel:
-  enable: true
+  enable: false
   brand_images:
   - images/brands/01-colored.png
   - images/brands/02-colored.png
