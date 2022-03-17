@@ -1,7 +1,7 @@
 ---
 banner:
   title: Votre projet, notre passion
-  button: Coucou
+  button: Bienvenue
   button_link: https://saint-ismier-38.immoliaison.fr/
   image: "/images/photo-de-couverture.jpg"
 brands_carousel:
@@ -31,7 +31,7 @@ features:
     vendre votre bien ? N'hésitez pas à me contacter, je me ferai une joie de vous
     aider.\n"
   features_blocks:
-  - icon: las la-lock - HDR
+  - icon: las la-magnet
     title: Photos HDR
     content: ''
   - icon: "/images/portail_diffusion.png"
