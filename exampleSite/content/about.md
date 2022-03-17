@@ -23,10 +23,11 @@ what_we_do:
     content: "Je détermine avec précision la valeur vénale de votre bien grâce à la
       fiabilité de mes méthodes d’estimation et à ma connaissance du secteur. \nUne
       bonne estimation permet une vente rapide de votre bien !!"
-  - title: Design for anyone
-    content: Decade of engineering under his belt, Jeremie is responsible for technical
-      infrastructure and feature development. In Flow, wherever things just work is
-      understanding developing complex systems
+  - title: "•\tPhotos HDR afin de valoriser votre bien"
+    content: 'La Technologie HDR apporte une meilleure luminosité pour avoir une image
+      de qualité. En pratique, l’application que j’utilise combine automatiquement
+      9 photos (de la plus surexposée à la plus sous-exposée) pour en extraire la
+      meilleure. '
   - title: Creative flair design
     content: Decade of engineering under his belt, Jeremie is responsible for technical
       infrastructure and feature development. In Flow, wherever things just work is
