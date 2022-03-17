@@ -27,7 +27,7 @@ name = "About"
 url = "about/"
 weight = 2
 [[main]]
-name = "Blog"
+name = "Actualités"
 url = "blog/"
 weight = 3
 [[main]]
