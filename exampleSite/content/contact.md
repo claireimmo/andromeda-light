@@ -1,7 +1,6 @@
 ---
-title: "contact"
-layout: "contact"
-draft: false
+title: contact
+layout: Votre demande
+contact_image: images/vectors/contact.png
 
-contact_image: "images/vectors/contact.png"
 ---
