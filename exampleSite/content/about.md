@@ -44,10 +44,16 @@ what_we_do:
       définitive, pas uniquement jusqu’au compromis !\n"
 our_mission:
   enable: true
-  subtitle: OUR MISSION
-  title: Main Vision And Mission Of Our Company
-  description: We were freelance designers and developers, constantly finding ourselve
-    deep vague feedback. leaving a notes from the sticky note piece .
+  subtitle: MA MISSION
+  title: L’accompagnement complet de mes clients & la Sécurisation des dossiers de
+    vente
+  description: "Je m’engage à vous accompagner sur l’ensemble de votre projet : la
+    commercialisation de votre bien, la réalisation de devis si nécessaire, vous orienter
+    pour faire les diagnostics immobiliers obligatoires pour vendre et avant toute
+    diffusion d’annonce…\nJ’accompagnerai votre futur acquéreur dans ses démarches
+    de financement pour sécuriser la vente. \n=> Mon objectif est de sécuriser la
+    vente de votre bien afin de vous accompagner en toute tranquillité d’esprit jusqu’à
+    la vente définitive, pas uniquement jusqu’au compromis !"
   image: images/about/02.jpg
 about_video:
   enable: true
