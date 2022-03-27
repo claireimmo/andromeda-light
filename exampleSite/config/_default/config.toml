@@ -4,7 +4,7 @@ googleAnalytics = ""
 paginate = "6"
 summaryLength = "10"
 theme = "andromeda-light"
-title = "Immobilier Saint-Ismier"
+title = "Immobilier Saint-Ismier - Vente & Achat "
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
