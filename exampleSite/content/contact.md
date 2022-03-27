@@ -1,6 +1,6 @@
 ---
 title: Votre demande
-layout: ''
+layout: Votre demande
 contact_image: images/vectors/contact.png
 
 ---
