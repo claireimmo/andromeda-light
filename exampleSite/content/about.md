@@ -4,7 +4,7 @@ layout: about
 who_we_are:
   enable: true
   subtitle: Immoliaison Saint-Ismier
-  title: Votre projet, notre passion
+  title: Votre projet immobilier
   description: "Vous souhaitez vendre, acheter une maison ou un appartement sur SAINT-ISMIER
     ou sur les autres communes de la Vallée du Grésivaudan ? \nA votre disposition
     pour vous accompagner dans votre projet de vie.\n\nAvec Immoliaison Saint-Ismier,
