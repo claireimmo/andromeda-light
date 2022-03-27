@@ -1,5 +1,5 @@
 ---
-title: About
+title: Votre conseillère en immobilier
 layout: about
 who_we_are:
   enable: true
