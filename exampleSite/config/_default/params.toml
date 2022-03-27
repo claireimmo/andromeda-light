@@ -30,9 +30,9 @@ title = "Get Andromeda-Premium Now"
 [imaging]
 quality = 100
 [navigation_button]
-enable = false
-label = "Buy Premium"
-link = "https://gethugothemes.com/products/andromeda/"
+enable = true
+label = "Biens en vente"
+link = "https://saint-ismier-38.immoliaison.fr/"
 [preloader]
 enable = true
 preloader = "images/favicon.png"
