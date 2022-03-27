@@ -16,8 +16,8 @@ who_we_are:
   image: "/images/photo-de-couverture.jpg"
 what_we_do:
   enable: true
-  subtitle: ''
-  title: 'Mes méthodes de travail '
+  subtitle: 'Mes méthodes de travail '
+  title: Vendre votre bien
   block:
   - title: 'Estimation précise '
     content: "Je détermine avec précision la valeur vénale de votre bien grâce à la
