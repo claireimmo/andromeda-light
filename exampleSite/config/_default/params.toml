@@ -25,7 +25,7 @@ expire_days = 2
 button = "Download The Theme"
 button_link = "https://gethugothemes.com/products/andromeda/"
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-enable = true
+enable = false
 title = "Get Andromeda-Premium Now"
 [imaging]
 quality = 100
