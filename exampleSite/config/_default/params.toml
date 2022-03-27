@@ -30,7 +30,7 @@ title = "Get Andromeda-Premium Now"
 [imaging]
 quality = 100
 [navigation_button]
-enable = true
+enable = false
 label = "Buy Premium"
 link = "https://gethugothemes.com/products/andromeda/"
 [preloader]
