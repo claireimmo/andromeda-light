@@ -54,7 +54,7 @@ about_video:
     dans les meilleures conditions pour vous ! \U0001F3E1\nDécouvrez la multitude
     de services et d'actions que nous mettons à votre disposition pour vendre votre
     bien. \U0001F447"
-  video_url: https://zou.cimm.com/api/extranet/drive/preview?file_id=1qhE1GPA7grrshn9we9mCiqiAn9AKf-gE
+  video_url: https://www.facebook.com/immoliaisonfrance/videos/488666822256510
   video_thumbnail: images/about/video-popup-2.jpg
 brands_carousel:
   enable: false
