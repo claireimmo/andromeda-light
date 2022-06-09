@@ -1,9 +1,9 @@
 ---
-title: Votre conseillère en immobilier
-layout: about
+title: Immoliaison Saint-Ismier
+layout: Accueil
 who_we_are:
   enable: true
-  subtitle: Immoliaison Saint-Ismier
+  subtitle: ''
   title: Votre projet immobilier
   description: "Vous souhaitez vendre, acheter une maison ou un appartement sur SAINT-ISMIER
     ou sur les autres communes de la Vallée du Grésivaudan ? \nA votre disposition
