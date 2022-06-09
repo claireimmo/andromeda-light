@@ -53,7 +53,7 @@ about_video:
   description: Protect your design vision and leave nothing up to interpretation with
     interaction recipes. Quickly share and access all your team members interactions
     by using libraries, ensuring consistcy throughout the.
-  video_url: https://www.youtube.com/embed/dyZcRRWiuuw
+  video_url: https://zou.cimm.com/api/extranet/drive/preview?file_id=1qhE1GPA7grrshn9we9mCiqiAn9AKf-gE
   video_thumbnail: images/about/video-popup-2.jpg
 brands_carousel:
   enable: false
