@@ -26,13 +26,13 @@ what_we_do:
   - title: Photos HDR afin de valoriser votre bien
     content: 'La Technologie HDR apporte une meilleure luminosité pour avoir une image
       de qualité. En pratique, l’application que j’utilise combine automatiquement
-      9 photos (de la plus surexposée à la plus sous-exposée) pour en extraire la
+      9 photos (de la plus sur-exposée à la plus sous-exposée) pour en extraire la
       meilleure. '
   - title: Diffusion annonce
     content: Diffusion de votre annonce sur de nombreux sites internet dont la plupart
       sont réservés aux professionnels
   - title: Actions de street marketing
-    content: Réalisation de flyers personnalisés pour votre bien et distribution locale
+    content: Réalisation de flyers personnalisés de votre bien et distribution locale
 our_mission:
   enable: true
   subtitle: MA MISSION
