@@ -45,7 +45,7 @@ our_mission:
     de financement pour sécuriser la vente. \n=> Mon objectif est de sécuriser la
     vente de votre bien afin de vous accompagner en toute tranquillité d’esprit jusqu’à
     la vente définitive, pas uniquement jusqu’au compromis !"
-  image: images/about/02.jpg
+  image: "/images/image-cle-maison.jpg"
 about_video:
   enable: true
   subtitle: A Short Video
