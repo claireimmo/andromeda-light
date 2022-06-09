@@ -48,11 +48,12 @@ our_mission:
   image: "/images/image-cle-maison.jpg"
 about_video:
   enable: true
-  subtitle: A Short Video
-  title: You Take Care Of The Payments, We Take Care Of The Rest.
-  description: Protect your design vision and leave nothing up to interpretation with
-    interaction recipes. Quickly share and access all your team members interactions
-    by using libraries, ensuring consistcy throughout the.
+  subtitle: ''
+  title: Nos services en vidéo
+  description: "Chez Immoliaison, notre principal objectif est de vendre votre bien
+    dans les meilleures conditions pour vous ! \U0001F3E1\nDécouvrez la multitude
+    de services et d'actions que nous mettons à votre disposition pour vendre votre
+    bien. \U0001F447"
   video_url: https://zou.cimm.com/api/extranet/drive/preview?file_id=1qhE1GPA7grrshn9we9mCiqiAn9AKf-gE
   video_thumbnail: images/about/video-popup-2.jpg
 brands_carousel:
