@@ -23,23 +23,9 @@ name = "About"
 url = "about/"
 weight = 2
 [[main]]
-name = "Actualités"
-url = "blog/"
-weight = 3
-[[main]]
 hasChildren = true
 name = "Pages"
 weight = 4
-[[main]]
-name = "Blog Details"
-parent = "Pages"
-url = "blog/post-1/"
-weight = 1
-[[main]]
-name = "Terms & Conditions"
-parent = "Pages"
-url = "terms-and-conditions/"
-weight = 7
 [[main]]
 name = "Contact"
 url = "contact/"
