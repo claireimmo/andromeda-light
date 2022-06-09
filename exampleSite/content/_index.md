@@ -54,7 +54,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
       diam ornare volutpat in sagitis, aliquet. Arcu cursus
 intro_video:
-  enable: true
+  enable: false
   subtitle: Short Intro Video
   title: Built exclusively for you
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas
@@ -64,12 +64,12 @@ intro_video:
 how_it_works:
   enable: true
   block:
-  - subtitle: Primary Speciality
-    title: You Will Not miss Your All misunderstandings
-    description: Protect your design vision and leave nothing up to interpretation
-      with interaction recipes. Quickly share and access all your team members interactions
-      by using libraries, ensuring consistency throughout the.
-    image: images/features-01.png
+  - subtitle: 'Mes méthodes de travail '
+    title: "•\tEstimation précise "
+    description: "Je détermine avec précision la valeur vénale de votre bien grâce
+      à la fiabilité de mes méthodes d’estimation et à ma connaissance du secteur.
+      \nUne bonne estimation permet une vente rapide de votre bien !!"
+    image: ''
   - subtitle: Secondary Speciality
     title: Say hello to no-code The Advance Creation
     description: From the simplest of interactions to those that use Excel-gradeing
