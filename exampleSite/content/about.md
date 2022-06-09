@@ -49,7 +49,7 @@ our_mission:
 about_video:
   enable: true
   subtitle: ''
-  title: Nos services en vidéo
+  title: Aperçu de nos services
   description: "Chez Immoliaison, notre principal objectif est de vendre votre bien
     dans les meilleures conditions pour vous ! \U0001F3E1\nDécouvrez la multitude
     de services et d'actions que nous mettons à votre disposition pour vendre votre
