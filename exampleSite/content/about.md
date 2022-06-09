@@ -55,7 +55,7 @@ about_video:
     de services et d'actions que nous mettons à votre disposition pour vendre votre
     bien. \U0001F447"
   video_url: https://www.facebook.com/immoliaisonfrance/videos/488666822256510
-  video_thumbnail: images/about/video-popup-2.jpg
+  video_thumbnail: https://www.facebook.com/immoliaisonfrance/videos/488666822256510
 brands_carousel:
   enable: false
   subtitle: Our Clients
