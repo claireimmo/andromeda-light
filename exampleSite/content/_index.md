@@ -54,7 +54,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
       diam ornare volutpat in sagitis, aliquet. Arcu cursus
 intro_video:
-  enable: false
+  enable: true
   subtitle: Short Intro Video
   title: Built exclusively for you
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas
