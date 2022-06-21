@@ -56,7 +56,7 @@ about_video:
   video_url: https://fb.watch/dxPM4Kr_15/
   video_thumbnail: https://www.facebook.com/immoliaisonfrance/videos/488666822256510
 brands_carousel:
-  enable: true
+  enable: false
   subtitle: Our Clients
   title: Trusted by Thousands Companies
   section: "/"
