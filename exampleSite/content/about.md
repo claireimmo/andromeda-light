@@ -53,7 +53,7 @@ about_video:
   description: |-
     Chez Immoliaison, notre principal objectif est de vendre votre bien dans les meilleures conditions pour vous !
     Découvrez la multitude de services et d'actions que nous mettons à votre disposition pour vendre votre bien.
-  video_url: https://fb.watch/dxPM4Kr_15/
+  video_url: "/images/valeur-ajoutee-de-l-agent-immoliaison_09-03-2021-0945.mp4"
   video_thumbnail: https://www.facebook.com/immoliaisonfrance/videos/488666822256510
 brands_carousel:
   enable: false
