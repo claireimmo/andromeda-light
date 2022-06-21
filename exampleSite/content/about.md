@@ -1,6 +1,6 @@
 ---
 title: Immoliaison Saint-Ismier
-layout: About
+layout: Accueil
 who_we_are:
   enable: true
   subtitle: ''
