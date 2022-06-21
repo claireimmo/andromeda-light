@@ -15,17 +15,13 @@ name = "Terms & Conditions"
 url = "terms-and-conditions/"
 weight = 4
 [[main]]
-name = "bla"
-url = ""
-weight = ""
+name = "Accueil"
+url = "about/"
+weight = 2
 [[main]]
 name = "Home"
 url = ""
 weight = 1
-[[main]]
-name = "About"
-url = "about/"
-weight = 2
 [[main]]
 name = "Contact"
 url = "contact/"
