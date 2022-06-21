@@ -65,7 +65,7 @@ how_it_works:
   enable: true
   block:
   - subtitle: 'Mes méthodes de travail '
-    title: "•\tEstimation précise "
+    title: 'Estimation précise '
     description: "Je détermine avec précision la valeur vénale de votre bien grâce
       à la fiabilité de mes méthodes d’estimation et à ma connaissance du secteur.
       \nUne bonne estimation permet une vente rapide de votre bien !!"
