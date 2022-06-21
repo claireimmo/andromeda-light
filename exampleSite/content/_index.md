@@ -69,7 +69,7 @@ how_it_works:
     description: "Je détermine avec précision la valeur vénale de votre bien grâce
       à la fiabilité de mes méthodes d’estimation et à ma connaissance du secteur.
       \nUne bonne estimation permet une vente rapide de votre bien !"
-    image: ''
+    image: images/features-01.png
   - subtitle: Secondary Speciality
     title: Say hello to no-code The Advance Creation
     description: From the simplest of interactions to those that use Excel-gradeing
