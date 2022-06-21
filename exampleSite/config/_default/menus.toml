@@ -23,10 +23,6 @@ name = "About"
 url = "about/"
 weight = 2
 [[main]]
-hasChildren = true
-name = "Pages"
-weight = 4
-[[main]]
 name = "Contact"
 url = "contact/"
 weight = 5
