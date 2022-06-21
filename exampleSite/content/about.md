@@ -50,10 +50,9 @@ about_video:
   enable: true
   subtitle: ''
   title: Aperçu de nos services
-  description: "Chez Immoliaison, notre principal objectif est de vendre votre bien
-    dans les meilleures conditions pour vous ! \U0001F3E1\nDécouvrez la multitude
-    de services et d'actions que nous mettons à votre disposition pour vendre votre
-    bien. \U0001F447"
+  description: |-
+    Chez Immoliaison, notre principal objectif est de vendre votre bien dans les meilleures conditions pour vous !
+    Découvrez la multitude de services et d'actions que nous mettons à votre disposition pour vendre votre bien.
   video_url: https://fb.watch/dxPM4Kr_15/
   video_thumbnail: https://www.facebook.com/immoliaisonfrance/videos/488666822256510
 brands_carousel:
