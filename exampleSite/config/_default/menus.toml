@@ -10,10 +10,6 @@ weight = 2
 name = "Blog Details"
 url = "blog/post-1/"
 weight = 3
-[[footer]]
-name = "Terms & Conditions"
-url = "terms-and-conditions/"
-weight = 4
 [[main]]
 name = "Home"
 url = ""
