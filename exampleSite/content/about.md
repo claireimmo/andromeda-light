@@ -5,9 +5,9 @@ who_we_are:
   enable: true
   subtitle: ''
   title: Votre projet immobilier
-  description: 'Immobilier Saint-Ismier - Votre agence immobilière en ligne sur Saint-Ismier.
+  description: 'Immoliaison Saint-Ismier - Votre agence immobilière en ligne sur Saint-Ismier.
     Pour tous vos projets immobiliers : estimation, vente et achat dans les communes
-    de la Vallée du Grésivaudan
+    de la Vallée du Grésivaudan.
 
     '
   image: "/images/photo-de-couverture.jpg"
