@@ -1,6 +1,6 @@
 [[footer]]
-name = "About"
-url = "about/"
+name = "Accueil"
+url = ""
 weight = 1
 [[footer]]
 name = "Blog"
