@@ -1,5 +1,5 @@
 ---
-title: Agence immobilière en ligne - Immoliaison Saint-Ismier
+title: Agence immobilière en ligne
 layout: about
 who_we_are:
   enable: true
