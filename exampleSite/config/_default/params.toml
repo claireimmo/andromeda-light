@@ -41,13 +41,9 @@ icon = "lab la-facebook-f"
 link = "https://www.facebook.com/Immoliaison.SaintIsmier38"
 title = "Facebook"
 [[social]]
-icon = "lab la-twitter"
-link = "#!"
-title = "AndromedaTweet"
-[[social]]
 icon = "lab la-linkedin-in"
-link = "#!"
-title = "AndromedaIn"
+link = "https://www.linkedin.com/in/claire-genot-4b1451b7/"
+title = "Linkedin"
 [[social]]
 icon = "lab la-pinterest"
 link = "#!"
