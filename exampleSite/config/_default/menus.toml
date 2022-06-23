@@ -7,8 +7,8 @@ name = "Services"
 url = "about/"
 weight = 2
 [[footer]]
-name = "Blog Details"
-url = "blog/post-1/"
+name = "Contact"
+url = "contact/"
 weight = 3
 [[main]]
 name = "Accueil"
