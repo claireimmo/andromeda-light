@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Votre projet, notre passion
+  title: Immoliaison Saint-Ismier, votre conseillère de proximité
   button: Bienvenue
   button_link: https://saint-ismier-38.immoliaison.fr/
   image: "/images/photo-de-couverture.jpg"
