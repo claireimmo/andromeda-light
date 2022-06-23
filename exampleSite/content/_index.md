@@ -26,10 +26,10 @@ features:
   title: Avec Immoliaison Saint-Ismier, L’expertise du marché local avec la force
     d’un réseau national !
   description: "Je me présente, Claire Genot, native du secteur, Conseillère en immobilier
-    à votre écoute !\nJe dépends du réseau Immoliaison, enseigne du Groupe Cimm Immobilier,
-    basé à Montbonnot (38). \nVous avez des questions, un projet immobilier ou souhaitez
-    vendre votre bien ? N'hésitez pas à me contacter, je me ferai une joie de vous
-    aider.\n"
+    à votre écoute !\n\nJe dépends du réseau Immoliaison, enseigne du Groupe Cimm
+    Immobilier, basé à Montbonnot (38). \n\nVous avez des questions, un projet immobilier
+    ou souhaitez vendre votre bien ? N'hésitez pas à me contacter, je me ferai une
+    joie de vous aider.\n"
   features_blocks: []
 intro_video:
   enable: false
