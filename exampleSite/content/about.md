@@ -51,7 +51,7 @@ about_video:
     dans les meilleures conditions pour vous ! \U0001F3E1\nDécouvrez la multitude
     de services et d'actions que nous mettons à votre disposition pour vendre votre
     bien. \U0001F447"
-  video_url: https://www.facebook.com/immoliaisonfrance/videos/488666822256510
+  video_url: https://fb.watch/dQafZimptJ/
   video_thumbnail: https://www.facebook.com/immoliaisonfrance/videos/488666822256510
 brands_carousel:
   enable: false
