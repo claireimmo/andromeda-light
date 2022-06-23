@@ -3,8 +3,8 @@ name = "Accueil"
 url = ""
 weight = 1
 [[footer]]
-name = "Blog"
-url = "blog/"
+name = "Services"
+url = "about/"
 weight = 2
 [[footer]]
 name = "Blog Details"
