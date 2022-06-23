@@ -20,7 +20,7 @@ brands_carousel:
   - images/brands/05-colored.png
 features:
   enable: true
-  subtitle: Vous souhaitez vendre, acheter une maison ou un appartement sur SAINT-ISMIER
+  subtitle: Vous souhaitez vendre, acheter une maison, un appartement sur SAINT-ISMIER
     et toutes les autres communes du Grésivaudan ? Hâte de vous accompagner dans votre
     projet de vie.
   title: Avec Immoliaison Saint-Ismier, L’expertise du marché local avec la force
