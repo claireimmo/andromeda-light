@@ -27,7 +27,7 @@ what_we_do:
       meilleure. '
   - title: Diffusion annonce
     content: Diffusion de votre annonce sur de nombreux sites internet dont la plupart
-      sont réservés aux professionnels
+      sont réservés aux professionnels.
   - title: Actions de street marketing
     content: Réalisation de flyers personnalisés de votre bien et distribution locale
 our_mission:
