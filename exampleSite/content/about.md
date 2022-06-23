@@ -2,7 +2,7 @@
 title: Agence immobilière en ligne
 layout: about
 who_we_are:
-  enable: true
+  enable: false
   subtitle: ''
   title: Votre projet immobilier
   description: "Vous souhaitez vendre, acheter une maison ou un appartement sur SAINT-ISMIER
