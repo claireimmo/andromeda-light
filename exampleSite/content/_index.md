@@ -77,7 +77,7 @@ how_it_works:
       everyday without ever having to write any new code.
     image: images/features-02.png
 testimonials:
-  enable: true
+  enable: false
   subtitle: Our Testimonials
   title: Don't take our word for it
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas
