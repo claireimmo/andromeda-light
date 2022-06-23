@@ -10,7 +10,7 @@ who_we_are:
     de la Vallée du Grésivaudan.
 
     '
-  image: "/images/photo-de-couverture.jpg"
+  image: "/images/photo_2022-06-23-16-17-00.jpeg"
 what_we_do:
   enable: true
   subtitle: Mes méthodes de travail
