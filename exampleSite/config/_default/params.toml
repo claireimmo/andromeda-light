@@ -9,7 +9,7 @@ footer_info = ""
 image = "images/logo-immoliaison.jpg"
 logo = "images/logo-immoliaison.jpg"
 logo_text = "Immobilier Saint Ismier"
-logo_width = "240x"
+logo_width = "150x"
 mainSections = ["blog"]
 reading_time = true
 [contact_info]
