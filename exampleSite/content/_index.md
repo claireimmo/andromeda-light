@@ -62,7 +62,7 @@ intro_video:
   video_url: https://www.youtube.com/embed/dyZcRRWiuuw
   video_thumbnail: images/video-popup.jpg
 how_it_works:
-  enable: true
+  enable: false
   block:
   - subtitle: Mes méthodes de travail
     title: Estimation précise
