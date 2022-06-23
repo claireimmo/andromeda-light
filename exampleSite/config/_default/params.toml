@@ -38,8 +38,8 @@ enable = true
 preloader = "images/favicon.png"
 [[social]]
 icon = "lab la-facebook-f"
-link = "#!"
-title = "Andromeda"
+link = "https://www.facebook.com/Immoliaison.SaintIsmier38"
+title = "Facebook"
 [[social]]
 icon = "lab la-twitter"
 link = "#!"
