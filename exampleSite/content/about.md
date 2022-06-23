@@ -39,7 +39,7 @@ our_mission:
     commercialisation de votre bien, la réalisation de devis si nécessaire, vous orienter
     pour faire les diagnostics immobiliers obligatoires pour vendre et avant toute
     diffusion d’annonce…\nJ’accompagnerai votre futur acquéreur dans ses démarches
-    de financement pour sécuriser la vente. \n=> Mon objectif est de sécuriser la
+    de financement pour sécuriser la vente. \n\n=> Mon objectif est de sécuriser la
     vente de votre bien afin de vous accompagner en toute tranquillité d’esprit jusqu’à
     la vente définitive, pas uniquement jusqu’au compromis !"
   image: "/images/image-cle-maison.jpg"
