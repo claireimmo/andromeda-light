@@ -3,7 +3,7 @@ banner:
   title: Immoliaison Saint-Ismier, votre conseillère de proximité
   button: Bienvenue
   button_link: https://saint-ismier-38.immoliaison.fr/
-  image: "/images/photo-buste-claire-reduite.jpg"
+  image: "/images/image-cle-maison-claire.jpg"
 brands_carousel:
   enable: false
   brand_images:
