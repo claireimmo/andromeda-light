@@ -16,7 +16,7 @@ who_we_are:
   image: "/images/photo-de-couverture.jpg"
 what_we_do:
   enable: true
-  subtitle: ''
+  subtitle: Mes méthodes de travail
   title: Vendre votre bien
   block:
   - title: 'Estimation précise '
