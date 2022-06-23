@@ -29,7 +29,7 @@ what_we_do:
     content: Diffusion de votre annonce sur de nombreux sites internet dont la plupart
       sont réservés aux professionnels.
   - title: Actions de street marketing
-    content: Réalisation de flyers personnalisés de votre bien et distribution locale
+    content: Réalisation de flyers personnalisés de votre bien et distribution locale.
 our_mission:
   enable: true
   subtitle: MA MISSION
