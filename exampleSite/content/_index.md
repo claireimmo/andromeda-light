@@ -32,7 +32,7 @@ features:
     aider.\n"
   features_blocks: []
 intro_video:
-  enable: true
+  enable: false
   subtitle: Short Intro Video
   title: Built exclusively for you
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas
