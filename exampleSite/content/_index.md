@@ -20,9 +20,8 @@ brands_carousel:
   - images/brands/05-colored.png
 features:
   enable: true
-  subtitle: Vous souhaitez vendre, acheter une maison, un appartement sur SAINT-ISMIER
-    et toutes les autres communes du Grésivaudan ? Hâte de vous accompagner dans votre
-    projet de vie.
+  subtitle: 'Vous souhaitez vendre, acheter une maison, un appartement sur SAINT-ISMIER
+    et toutes les autres communes du Grésivaudan ? '
   title: Avec Immoliaison Saint-Ismier, L’expertise du marché local avec la force
     d’un réseau national !
   description: "Je me présente, Claire Genot, native du secteur, Conseillère en immobilier
