@@ -1,8 +1,4 @@
 [[footer]]
-name = "Barème Honoraires"
-url = ""
-weight = ""
-[[footer]]
 name = "Accueil"
 url = ""
 weight = 1
@@ -14,6 +10,10 @@ weight = 2
 name = "Contact"
 url = "contact/"
 weight = 3
+[[footer]]
+name = "Barème Honoraires"
+url = "/images/bareme_immoliaison.pdf"
+weight = ""
 [[main]]
 name = "Accueil"
 url = ""
