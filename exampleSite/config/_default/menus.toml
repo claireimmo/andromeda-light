@@ -1,4 +1,8 @@
 [[footer]]
+name = "Barème Honoraires"
+url = ""
+weight = ""
+[[footer]]
 name = "Accueil"
 url = ""
 weight = 1
