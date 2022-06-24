@@ -45,6 +45,6 @@ icon = "lab la-linkedin-in"
 link = "https://www.linkedin.com/in/claire-genot-4b1451b7/"
 title = "Linkedin"
 [[social]]
-icon = ""
+icon = "lab la-barème"
 link = "/images/bareme_immoliaison.pdf"
 title = "Barème Honoraires"
