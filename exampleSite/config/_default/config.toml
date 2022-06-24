@@ -1,6 +1,6 @@
 baseURL = "saint-ismier-immobilier.netlify.com"
 disqusShortname = "themefisher-template"
-googleAnalytics = ""
+googleAnalytics = "G-SD6VTNGH6N"
 languageCode = "fr"
 paginate = "6"
 summaryLength = "10"
