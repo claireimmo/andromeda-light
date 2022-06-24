@@ -1,11 +1,11 @@
 baseURL = "saint-ismier-immobilier.netlify.com"
-languageCode = "fr"
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
+languageCode = "fr"
 paginate = "6"
 summaryLength = "10"
 theme = "andromeda-light"
-title = "Immobilier Saint-Ismier - Vente & Achat "
+title = "Immobilier Saint-Ismier - Vente & Achat"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
