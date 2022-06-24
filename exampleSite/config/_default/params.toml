@@ -38,7 +38,7 @@ enable = true
 preloader = "images/favicon.png"
 [[social]]
 icon = ""
-link = ""
+link = "/images/bareme_immoliaison.pdf"
 title = "Barème Honoraires"
 [[social]]
 icon = "lab la-facebook-f"
