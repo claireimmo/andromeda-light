@@ -12,7 +12,7 @@ url = "contact/"
 weight = 3
 [[footer]]
 name = "Barème Honoraires"
-url = "/images/bareme_immoliaison.pdf"
+url = "/images/bareme.pdf"
 weight = ""
 [[main]]
 name = "Accueil"
