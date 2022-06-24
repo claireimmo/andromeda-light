@@ -37,6 +37,10 @@ link = "https://saint-ismier-38.immoliaison.fr/"
 enable = true
 preloader = "images/favicon.png"
 [[social]]
+icon = ""
+link = ""
+title = "Barème Honoraires"
+[[social]]
 icon = "lab la-facebook-f"
 link = "https://www.facebook.com/Immoliaison.SaintIsmier38"
 title = "Facebook"
