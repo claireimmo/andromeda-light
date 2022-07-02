@@ -1,11 +1,11 @@
 +++
-date = ""
+date = 2022-07-12T22:00:00Z
 draft = true
 image = ""
 title = "Sitemap"
 [author_info]
 image = ""
-name = ""
+name = "Claire Genot"
 
 +++
 [Accueil](http://saint-ismier-immobilier.netlify.app "Accueil")
