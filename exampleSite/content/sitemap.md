@@ -1,6 +1,5 @@
 +++
-date = 2022-07-12T22:00:00Z
-draft = true
+date = 2022-07-13T22:00:00Z
 image = ""
 title = "Sitemap"
 [author_info]
