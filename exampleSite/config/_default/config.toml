@@ -29,3 +29,7 @@ mediaType = "application/manifest+json"
 rel = "manifest"
 [outputs]
 home = ["HTML", "RSS", "WebAppManifest"]
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
