@@ -1,13 +1,13 @@
 ---
-date: "2021-07-12"
-title: "Three reasons you DON’T need an app on the App Store"
-image: "images/blog/03.jpg"
-author_info: 
-  name: "Derick Barker"
-  image: "images/author/derick.jpg"
-draft: false
----
+date: 2021-07-12
+title: Three reasons you DON’T need an app on the App Store
+image: images/blog/03.jpg
+author_info:
+  name: Derick Barker
+  image: images/author/derick.jpg
+draft: true
 
+---
 Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent

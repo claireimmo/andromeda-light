@@ -1,11 +1,12 @@
 ---
-date: 2022-03-01T13:53:00+00:00
+date: 2022-03-01T13:53:00.000+00:00
 title: 'Location & Transaction : Mention de la performance énergétique dans les annonces
   immobilières depuis le 1er janvier 2022 '
 image: ''
 author_info:
   name: Derick Barker
   image: images/author/derick.jpg
+draft: true
 
 ---
 Attention à vos annonces ! depuis le 1er janvier une mention spécifique et explicite doit figurer sur les annonces relatives à la mise en vente ou la location des biens classés en F ou G.

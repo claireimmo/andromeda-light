@@ -1,13 +1,13 @@
 ---
-date: "2021-07-09"
-title: "How to write a brief for a new website or app."
-image: "images/blog/06.jpg"
-author_info: 
-  name: "Abdullah Al Shifat"
-  image: "images/author/abdullah.jpg"
-draft: false
----
+date: 2021-07-09
+title: How to write a brief for a new website or app.
+image: images/blog/06.jpg
+author_info:
+  name: Abdullah Al Shifat
+  image: images/author/abdullah.jpg
+draft: true
 
+---
 Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
