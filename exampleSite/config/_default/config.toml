@@ -5,7 +5,7 @@ languageCode = "fr"
 paginate = "6"
 summaryLength = "10"
 theme = "andromeda-light"
-title = "Immobilier Saint-Ismier - Vente & Achat"
+title = "Immobilier Saint-Ismier: Vente & Achat"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
@@ -30,6 +30,6 @@ rel = "manifest"
 [outputs]
 home = ["HTML", "RSS", "WebAppManifest"]
 [sitemap]
-  changefreq = 'monthly'
-  filename = 'sitemap.xml'
-  priority = 0.5
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
