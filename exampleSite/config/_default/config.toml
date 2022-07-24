@@ -5,7 +5,7 @@ languageCode = "fr"
 paginate = "6"
 summaryLength = "10"
 theme = "andromeda-light"
-title = "Immobilier Saint-Ismier: Vente & Achat"
+title = "Immoliaison Saint-Ismier : votre agence immobilière de proximité "
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
